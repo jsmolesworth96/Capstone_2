@@ -7,4 +7,6 @@ Docs:
 * [Presentation](https://docs.google.com/presentation/d/1WAgX6jswLiLu-vGidv0N79-h5oRCqVkkI5std5seA8E/edit?usp=sharing)
 
 Notebooks:
-*
+* [Data Wrangling](https://docs.google.com/presentation/d/1WAgX6jswLiLu-vGidv0N79-h5oRCqVkkI5std5seA8E/edit?usp=sharing)
+* [Exploratory Data Analysis](https://github.com/jsmolesworth96/Predicting_Pitchfork_Album_Reviews/blob/master/Pitchfork%20Data%20Wrangling.ipynb)
+* [Modeling](https://github.com/jsmolesworth96/Predicting_Pitchfork_Album_Reviews/blob/master/Pitchfork%20Preprocessing%20and%20Modeling.ipynb)
