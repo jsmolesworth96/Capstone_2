@@ -6,3 +6,4 @@ Docs:
 * [Final Report](https://github.com/jsmolesworth96/Predicting_Pitchfork_Album_Reviews/blob/master/Pitchfork%20Project%20Report.pdf)
 * [Presentation](https://docs.google.com/presentation/d/1WAgX6jswLiLu-vGidv0N79-h5oRCqVkkI5std5seA8E/edit?usp=sharing)
 Notebooks:
+*sdfsdf
